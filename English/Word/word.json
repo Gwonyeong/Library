@@ -22,6 +22,14 @@
 
 
 
+    },
+    "1028" : {
+        "familiar": "친숙한" ,
+        "fallback" : "대체",
+        "generic " : "일반적인",
+        "Similarly" : "비슷하게",
+        "explicitly " : "명시적으로",
+        "demonstrate " : "입증하다"
     }
 }
 
