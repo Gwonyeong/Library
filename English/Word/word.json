@@ -30,6 +30,22 @@
         "Similarly" : "비슷하게",
         "explicitly " : "명시적으로",
         "demonstrate " : "입증하다"
+    },
+    "1030" : {
+        "several" : "몇몇의",
+        "suppose" : "가정하다",
+        "opaque" : "불투명체",
+        "CAUTION" : "주의",
+        "omit " : "생략",
+        "teardown " : "분해",
+        "serially " : "연속적으로",
+        "implementation ": "구현",
+        "invokes " : "불러일으키다",
+        "inspect " : "검사",
+        "fragile ": "부서지기 쉬운",
+        
+
+
     }
 }
 
