@@ -42,11 +42,24 @@
         "implementation ": "구현",
         "invokes " : "불러일으키다",
         "inspect " : "검사",
-        "fragile ": "부서지기 쉬운",
+        "fragile ": "부서지기 쉬운"
         
 
 
+    },
+    "1031" : {
+        "borrow " : "빌리다",
+        "distinct ": "별개의",
+        "illustrate " : "설명하다",
+        "negotiation" : "협상",
+        "figure " : "수치",
+        "integrates ": "통합",
+        "fully " : "충분히",
+        "peripheral ": "주변",
+        "coordinates " : "좌표"
+
     }
+
 }
 
 
