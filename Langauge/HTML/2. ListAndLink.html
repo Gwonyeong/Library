@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>List&Link</title>
+
+        <!-- <base href="https://naver.com">
+        head에서 모든 링크에 대한 기본 디렉토리를 정의할 수 있음.
+        -->
+    </head>
+    <body>
+        <ul>
+            <li><a href="#string1">번호 없는 리스트 1</a></li>
+            <!-- id가 string1인 위치로 이동하기-->
+            <li>번호 없는 리스트 2</li>
+            <li>번호 없는 리스트 3</li>
+        </ul>
+
+        <ol>
+            <li>번호 있는 리스트 1</li>
+            <li>번호 있는 리스트 2</li>
+            <li>번호 있는 리스트 3</li>
+        </ol>
+
+        <dl>
+            <!-- 정의 리스트 -->
+            <dt>아메리카노</dt>
+            <dd>에스프레소에 물을 넣은 것.</dd>
+        </dl>
+
+        <a href="https://naver.com">네이버 가기</a><br />
+        <a href="https://google.com" target="_blank">구글 새로운 탭에서 열기</a>
+        <!--
+            링크는 기본적으로 다음과 같이 표시됨.
+            * 방문하지 않은 링크는 밑줄이 그어져 있고 청색
+            * 방문한 링크는 밑줄이 그어져 있고 보라색
+            * 활성 링크는 밑줄이 그어져 있고 빨간색
+
+            target 속성
+            * _blank : 새로운 윈도우에서 새로운 페이지를 열기
+            * _self : 현재 윈도우에 새로운 페이지를 적재
+            * _parent : 부모 프레임에 새로운 페이지를 적재
+            * _top : 현재 윈도우에 새로운 페이지를 적재하고 모든 프레임을 취소
+        -->
+
+        <h1 id="string1">안녕!</h1>
+        <a href="./picture/ruluSmile.png">룰루 사진 다운받기</a>
+    </body>
+</html>
