@@ -58,7 +58,13 @@
         "peripheral ": "주변",
         "coordinates " : "좌표"
 
+    },
+    "1103": {
+        "Specifies" : "지정",
+        "persistent ": "지속성 있는",
+         "enabling " : "활성화"
     }
+
 
 }
 
