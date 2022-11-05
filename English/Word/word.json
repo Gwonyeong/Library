@@ -63,7 +63,14 @@
         "Specifies" : "지정",
         "persistent ": "지속성 있는",
          "enabling " : "활성화"
+    },
+    "1105": {
+        "aware" : "알고있는" ,
+        "recommend ": "추천하다",
+        "assumed" : "추정" 
+        
     }
+
 
 
 }
