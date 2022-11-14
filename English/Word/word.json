@@ -69,6 +69,12 @@
         "recommend ": "추천하다",
         "assumed" : "추정" 
         
+    },
+    "1114": {
+        "instruction" : "지침",
+        "Compose" : "구성",
+        "peel" : "(껍질)벗기다"
+        
     }
 
 
