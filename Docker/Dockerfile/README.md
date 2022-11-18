@@ -32,3 +32,5 @@ option 정리
 - --name 컨테이너 이름 설정
 - --rm 프로세스 종료 시 컨테이너 자동 제거
 - -it -i와 -t를 동시에 사용한 것으로 터미널 입력을 위한 옵션
+
+[Dockerfile문법](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ilikebigmac&logNo=221673193987)
